@@ -13,6 +13,9 @@ body {
     -ms-transform: translate(-50%, -50%); /* for IE 9 */
     -webkit-transform: translate(-50%, -50%); /* for Safari */
 }
+.center img {
+    width: 35%;
+}
 .comming-soon {
     margin-top: 3em;
 }
